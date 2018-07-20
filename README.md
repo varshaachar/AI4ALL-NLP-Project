@@ -1,3 +1,10 @@
 # AI4ALL-NLP-Project
 Adapted from SAILORS 2017
- [Hi](http://ai4all.stanford.edu/)
+
+This project has been adapted from the [Stanford 2017 AI4ALL](http://ai4all.stanford.edu/) NLP Twitter project, done by Abi See and Sebastian Schuster.
+
+Project leads at BU: Varsha Achar (varshaa@bu.edu) and 
+
+## General Instructions
+-----
+
