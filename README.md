@@ -6,5 +6,5 @@ This project has been adapted from the [Stanford 2017 AI4ALL](http://ai4all.stan
 Project leads at BU: Varsha Achar (varshaa@bu.edu) and 
 
 ## General Instructions
------
 
+1) 
